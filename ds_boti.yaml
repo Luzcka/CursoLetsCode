@@ -1,0 +1,14 @@
+name: ds_boti
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - nb_conda
+  - matplotlib
+  - seaborn
+  - openpyxl
+  - scikit-learn
+  - plotly
+  - category_encoders
